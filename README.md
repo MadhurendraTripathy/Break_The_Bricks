@@ -4,3 +4,4 @@ Requirements:
   Scratch2 should be installed on the system.
 Download the Offline Editor using this link for Scratch 2: 
   https://scratch.mit.edu/download/scratch2
+Press The GREEN FLAG to start the game and then press SPACEBAR to initially release the ball. 
